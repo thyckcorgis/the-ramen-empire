@@ -1,0 +1,17 @@
+{
+  "name": "what-was-that",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.14.0",
+    "discord-speech-recognition": "^3.1.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
