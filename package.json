@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/bot.js",
+    "watch": "nodemon dist/bot.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
